@@ -2,7 +2,7 @@
 This project predicts the **entrainment fraction (`e`)** using AutoML sklearn workflows.
 # Auto-Sklearn for Entrainment Fraction Prediction
 
-AutoML workflow for predicting **entrainment fraction (`e`)** in vertical two-phase flow using **Auto-sklearn**, with comparisons against **Random Forest** and **Gradient Boosting (GBM)**.
+AutoML workflow for predicting **entrainment fraction (`e`)** in vertical two-phase flow using **Auto-sklearn**, with comparisons against **Random Forest** and **Gradient Boosting (GBM)**. Auto Sklearn runs best on Linux.
 
 ## Project Highlights
 - End-to-end regression pipeline in `Auto_SkLearn.ipynb`
